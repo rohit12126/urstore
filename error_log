@@ -1,0 +1,276 @@
+[14-Jun-2016 03:48:53 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 33
+[15-Jun-2016 00:37:29 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '(', expecting ')' in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 29
+[15-Jun-2016 04:22:41 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '(', expecting ')' in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 80
+[15-Jun-2016 04:23:25 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '(', expecting ')' in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 80
+[15-Jun-2016 04:23:33 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '(', expecting ')' in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 80
+[15-Jun-2016 04:23:54 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '(', expecting ')' in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 80
+[15-Jun-2016 04:24:24 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '(', expecting ')' in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 80
+[15-Jun-2016 04:24:47 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '(', expecting ')' in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 80
+[15-Jun-2016 04:59:22 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_first_image() in /home/examin8/public_html/CI/3api/application/views/imgur/index.php on line 35
+[15-Jun-2016 05:46:22 America/Los_Angeles] PHP Fatal error:  Call to undefined function backend_pagination() in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 87
+[15-Jun-2016 05:46:51 America/Los_Angeles] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 101
+[15-Jun-2016 05:48:48 America/Los_Angeles] PHP Fatal error:  Call to undefined function backend_pagination() in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 87
+[15-Jun-2016 06:40:11 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 92
+[16-Jun-2016 00:13:03 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 129
+[16-Jun-2016 00:13:31 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 129
+[16-Jun-2016 00:13:41 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 129
+[16-Jun-2016 00:13:44 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 129
+[16-Jun-2016 14:43:19 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_option_value() in /home/examin8/public_html/CI/3api/application/views/imgur/index.php on line 70
+[16-Jun-2016 14:43:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_option_value() in /home/examin8/public_html/CI/3api/application/views/imgur/index.php on line 73
+[16-Jun-2016 15:35:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/examin8/public_html/CI/3api/application/views/imgur/index.php on line 62
+[16-Jun-2016 16:59:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/examin8/public_html/CI/3api/application/views/reddit/index.php on line 68
+[16-Jun-2016 19:19:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function is_timestamp() in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 29
+[16-Jun-2016 19:20:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function is_timestamp() in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 29
+[16-Jun-2016 19:50:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/3api/application/views/templates/header.php on line 62
+[17-Jun-2016 12:23:59 Asia/Kolkata] PHP Fatal error:  Call to a member function get_result() on a non-object in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 160
+[17-Jun-2016 14:46:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method Top::is_timestamp() in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 30
+[17-Jun-2016 14:50:31 Asia/Kolkata] PHP Fatal error:  Call to undefined function is_timestamp() in /home/examin8/public_html/CI/3api/application/models/Top_model.php on line 145
+[17-Jun-2016 15:33:06 Asia/Kolkata] PHP Fatal error:  Call to undefined method Top_model::is_timestamp() in /home/examin8/public_html/CI/3api/application/models/Top_model.php on line 145
+[17-Jun-2016 15:44:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/3api/application/views/youtube/detail.php on line 40
+[20-Jun-2016 11:40:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/examin8/public_html/CI/3api/application/views/reddit/index.php on line 114
+[21-Jun-2016 07:17:51 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/3api/application/controllers/Top.php on line 13
+[22-Jun-2016 12:04:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/examin8/public_html/CI/3api/application/views/frontend/index.php on line 18
+[22-Jun-2016 06:59:07 America/Los_Angeles] PHP Fatal error:  Call to undefined function superadmin_logged_in() in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 24
+[23-Jun-2016 11:34:17 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/examin8/public_html/CI/3api/application/views/youtube/detail.php on line 18
+[23-Jun-2016 11:36:14 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/examin8/public_html/CI/3api/application/views/youtube/detail.php on line 18
+[23-Jun-2016 11:37:01 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/examin8/public_html/CI/3api/application/views/youtube/detail.php on line 19
+[23-Jun-2016 11:42:34 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/examin8/public_html/CI/3api/application/views/youtube/detail.php on line 19
+[23-Jun-2016 11:42:37 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/examin8/public_html/CI/3api/application/views/youtube/detail.php on line 19
+[23-Jun-2016 11:44:48 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/examin8/public_html/CI/3api/application/views/youtube/detail.php on line 19
+[23-Jun-2016 11:44:59 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/examin8/public_html/CI/3api/application/views/youtube/detail.php on line 19
+[23-Jun-2016 11:45:03 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/examin8/public_html/CI/3api/application/views/youtube/detail.php on line 19
+[23-Jun-2016 00:55:55 America/Los_Angeles] PHP Fatal error:  Call to a member function login() on a non-object in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 32
+[23-Jun-2016 00:56:50 America/Los_Angeles] PHP Fatal error:  Call to undefined function admin_name() in /home/examin8/public_html/CI/3api/application/views/templates/admin_header.php on line 55
+[23-Jun-2016 00:58:21 America/Los_Angeles] PHP Fatal error:  Call to undefined function admin_name() in /home/examin8/public_html/CI/3api/application/views/templates/admin_header.php on line 55
+[23-Jun-2016 02:01:16 America/Los_Angeles] PHP Fatal error:  Call to undefined function superadmin_logged_in() in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 15
+[23-Jun-2016 02:32:31 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ''; ?>" href="<?php echo base_u' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/examin8/public_html/CI/3api/application/views/templates/admin_header.php on line 85
+[23-Jun-2016 06:56:23 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/examin8/public_html/CI/3api/application/views/backend/youtube/index.php on line 49
+[24-Jun-2016 00:22:35 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ',' in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 95
+[24-Jun-2016 00:41:36 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 91
+[24-Jun-2016 01:58:57 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 81
+[24-Jun-2016 03:03:46 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 71
+[24-Jun-2016 03:12:04 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 68
+[24-Jun-2016 03:13:00 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 69
+[24-Jun-2016 07:13:41 America/Los_Angeles] PHP Fatal error:  Call to a member function get_first_image() on a non-object in /home/examin8/public_html/CI/3api/application/helpers/common_helper.php on line 14
+[24-Jun-2016 07:16:26 America/Los_Angeles] PHP Fatal error:  Call to a member function get_first_image() on a non-object in /home/examin8/public_html/CI/3api/application/helpers/common_helper.php on line 14
+[24-Jun-2016 22:40:12 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'Are' (T_STRING), expecting ',' or ';' in /home/examin8/public_html/CI/3api/application/views/backend/reddit/index.php on line 123
+[24-Jun-2016 23:27:30 America/Los_Angeles] PHP Fatal error:  Call to undefined function superadmin_id() in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 339
+[24-Jun-2016 23:47:17 America/Los_Angeles] PHP Fatal error:  Call to undefined function set_data() in /home/examin8/public_html/CI/3api/application/views/backend/change_password.php on line 14
+[25-Jun-2016 02:29:27 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/examin8/public_html/CI/3api/application/views/backend/top_ads/add.php on line 52
+[25-Jun-2016 02:29:27 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/examin8/public_html/CI/3api/application/views/backend/top_ads/add.php on line 52
+[25-Jun-2016 05:14:39 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '$data_insert' (T_VARIABLE) in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 394
+[25-Jun-2016 05:25:47 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/3api/application/controllers/Backend.php on line 396
+[25-Jun-2016 07:27:55 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/examin8/public_html/CI/3api/application/views/backend/top_ads/edit.php on line 47
+[25-Jun-2016 07:27:55 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/examin8/public_html/CI/3api/application/views/backend/top_ads/edit.php on line 47
+[25-Jun-2016 07:29:02 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/examin8/public_html/CI/3api/application/views/backend/top_ads/edit.php on line 47
+[25-Jun-2016 07:29:02 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/examin8/public_html/CI/3api/application/views/backend/top_ads/edit.php on line 47
+[25-Jun-2016 07:29:12 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/examin8/public_html/CI/3api/application/views/backend/top_ads/edit.php on line 47
+[25-Jun-2016 07:29:13 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/examin8/public_html/CI/3api/application/views/backend/top_ads/edit.php on line 47
+[05-Sep-2016 04:45:20 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/nce/wiki/application/models/Superadmin_model.php on line 221
+[15-Sep-2016 22:34:06 America/Los_Angeles] PHP Fatal error:  Call to undefined function superadmin_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Product_category.php on line 9
+[15-Sep-2016 22:37:06 America/Los_Angeles] PHP Fatal error:  Call to undefined function msg_alert_backend() in /home/examin8/public_html/CI/nce/wiki/application/views/backend/product_category/index.php on line 24
+[15-Sep-2016 22:38:27 America/Los_Angeles] PHP Fatal error:  Call to undefined function msg_alert_backend() in /home/examin8/public_html/CI/nce/wiki/application/views/backend/product_category/index.php on line 24
+[15-Sep-2016 22:39:18 America/Los_Angeles] PHP Fatal error:  Call to undefined function buildCategory() in /home/examin8/public_html/CI/nce/wiki/application/views/backend/product_category/index.php on line 58
+[15-Sep-2016 22:43:14 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:45:03 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:45:33 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:45:33 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:45:33 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:45:33 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:49:08 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:50:12 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:50:13 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:50:13 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:50:13 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:50:13 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:50:13 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:50:13 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:52:00 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:52:00 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:52:00 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:52:00 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:52:00 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:52:00 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:52:01 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 22:56:23 America/Los_Angeles] PHP Fatal error:  Call to undefined function admin_name() in /home/examin8/public_html/CI/nce/wiki/application/views/templates/admin_header.php on line 130
+[15-Sep-2016 22:56:55 America/Los_Angeles] PHP Fatal error:  Call to undefined function admin_name() in /home/examin8/public_html/CI/nce/wiki/application/views/templates/admin_header.php on line 130
+[15-Sep-2016 22:59:08 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 23:00:04 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 448
+[15-Sep-2016 23:00:05 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 23:00:06 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 23:00:09 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 23:00:18 America/Los_Angeles] PHP Fatal error:  Call to undefined function admin_name() in /home/examin8/public_html/CI/nce/wiki/application/views/templates/admin_header.php on line 130
+[15-Sep-2016 23:00:20 America/Los_Angeles] PHP Fatal error:  Call to a member function buildCategory() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/helpers/chapter247_common_helper.php on line 39
+[15-Sep-2016 23:01:12 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/nce/wiki/application/models/Common_model.php on line 8
+[15-Sep-2016 23:18:24 America/Los_Angeles] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/controllers/Product_category.php on line 181
+[15-Sep-2016 23:18:29 America/Los_Angeles] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/controllers/Product_category.php on line 181
+[15-Sep-2016 23:18:36 America/Los_Angeles] PHP Fatal error:  Call to a member function get_row() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/controllers/Product_category.php on line 181
+[15-Sep-2016 23:31:11 America/Los_Angeles] PHP Fatal error:  Call to a member function getColumnDataWhere() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/controllers/Product_category.php on line 23
+[15-Sep-2016 23:47:59 America/Los_Angeles] PHP Fatal error:  Call to undefined function msg_alert_backend() in /home/examin8/public_html/CI/nce/wiki/application/views/backend/product_category/index.php on line 24
+[15-Sep-2016 23:57:45 America/Los_Angeles] PHP Fatal error:  Call to a member function getColumnDataWhere() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/controllers/Product_category.php on line 22
+[16-Sep-2016 00:01:51 America/Los_Angeles] PHP Fatal error:  Call to a member function getColumnDataWhere() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/controllers/Product_category.php on line 22
+[16-Sep-2016 00:01:55 America/Los_Angeles] PHP Fatal error:  Call to a member function getColumnDataWhere() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/controllers/Product_category.php on line 22
+[16-Sep-2016 00:03:06 America/Los_Angeles] PHP Fatal error:  Call to a member function getColumnDataWhere() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blog_category.php on line 79
+[16-Sep-2016 01:00:27 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/examin8/public_html/CI/nce/wiki/application/models/Superadmin_model.php on line 221
+[16-Sep-2016 01:52:36 America/Los_Angeles] PHP Fatal error:  Call to a member function getColumnDataWhere() on a non-object in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 80
+[16-Sep-2016 01:54:02 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 192
+[16-Sep-2016 01:54:05 America/Los_Angeles] PHP Fatal error:  Call to undefined method Common_model::numbertodash() in /home/examin8/public_html/CI/nce/wiki/application/models/Common_model.php on line 270
+[16-Sep-2016 01:54:10 America/Los_Angeles] PHP Fatal error:  Call to undefined method Common_model::numbertodash() in /home/examin8/public_html/CI/nce/wiki/application/models/Common_model.php on line 270
+[16-Sep-2016 02:35:23 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:35:24 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:36:42 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:36:43 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:36:53 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:36:55 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:36:57 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:36:59 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:37:00 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:37:01 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:36 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:38 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:40 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:41 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:42 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:51 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:52 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:53 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:54 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:54 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:54 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:38:56 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:39:54 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:39:54 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:39:54 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:39:56 America/Los_Angeles] PHP Fatal error:  Can't use method return value in write context in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 86
+[16-Sep-2016 02:41:37 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/examin8/public_html/CI/nce/wiki/application/views/backend/blog/blog_edit.php on line 90
+[16-Sep-2016 03:57:33 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '"<pre>"' (T_CONSTANT_ENCAPSED_STRING) in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 20
+[16-Sep-2016 03:57:36 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '"<pre>"' (T_CONSTANT_ENCAPSED_STRING) in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 20
+[16-Sep-2016 03:57:54 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 298
+[16-Sep-2016 03:58:18 America/Los_Angeles] PHP Fatal error:  Call to undefined method Blogs::is_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 6
+[16-Sep-2016 03:58:20 America/Los_Angeles] PHP Fatal error:  Call to undefined method Blogs::is_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 6
+[16-Sep-2016 03:58:21 America/Los_Angeles] PHP Fatal error:  Call to undefined method Blogs::is_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 6
+[16-Sep-2016 03:58:21 America/Los_Angeles] PHP Fatal error:  Call to undefined method Blogs::is_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 6
+[16-Sep-2016 03:58:22 America/Los_Angeles] PHP Fatal error:  Call to undefined method Blogs::is_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 6
+[16-Sep-2016 03:58:22 America/Los_Angeles] PHP Fatal error:  Call to undefined method Blogs::is_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 6
+[16-Sep-2016 03:58:22 America/Los_Angeles] PHP Fatal error:  Call to undefined method Blogs::is_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 6
+[16-Sep-2016 03:58:22 America/Los_Angeles] PHP Fatal error:  Call to undefined method Blogs::is_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 6
+[16-Sep-2016 03:58:22 America/Los_Angeles] PHP Fatal error:  Call to undefined method Blogs::is_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 6
+[16-Sep-2016 03:58:22 America/Los_Angeles] PHP Fatal error:  Call to undefined method Blogs::is_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 6
+[16-Sep-2016 03:58:22 America/Los_Angeles] PHP Fatal error:  Call to undefined method Blogs::is_logged_in() in /home/examin8/public_html/CI/nce/wiki/application/controllers/Blogs.php on line 6
+[16-Sep-2016 04:16:50 America/Los_Angeles] PHP Fatal error:  Call to a member function admin_logged_in() on a non-object in /home/examin8/public_html/CI/wiki/application/controllers/Blogs.php on line 11
+[16-Sep-2016 04:16:51 America/Los_Angeles] PHP Fatal error:  Call to a member function admin_logged_in() on a non-object in /home/examin8/public_html/CI/wiki/application/controllers/Blogs.php on line 11
+[16-Sep-2016 04:16:52 America/Los_Angeles] PHP Fatal error:  Call to a member function admin_logged_in() on a non-object in /home/examin8/public_html/CI/wiki/application/controllers/Blogs.php on line 11
+[16-Sep-2016 04:16:52 America/Los_Angeles] PHP Fatal error:  Call to a member function admin_logged_in() on a non-object in /home/examin8/public_html/CI/wiki/application/controllers/Blogs.php on line 11
+[16-Sep-2016 04:16:52 America/Los_Angeles] PHP Fatal error:  Call to a member function admin_logged_in() on a non-object in /home/examin8/public_html/CI/wiki/application/controllers/Blogs.php on line 11
+[16-Sep-2016 04:16:52 America/Los_Angeles] PHP Fatal error:  Call to a member function admin_logged_in() on a non-object in /home/examin8/public_html/CI/wiki/application/controllers/Blogs.php on line 11
+[18-Sep-2016 23:22:01 America/Los_Angeles] PHP Fatal error:  Call to undefined function clear_cache() in /home/examin8/public_html/CI/wiki/application/controllers/Home.php on line 6
+[18-Sep-2016 23:22:01 America/Los_Angeles] PHP Fatal error:  Call to undefined function clear_cache() in /home/examin8/public_html/CI/wiki/application/controllers/Home.php on line 6
+[18-Sep-2016 23:22:03 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:03 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:03 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:04 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:04 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:04 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:04 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:05 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:05 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:05 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:05 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:06 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:06 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:08 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ')' in /home/examin8/public_html/CI/wiki/application/helpers/chapter247_common_helper.php on line 20
+[18-Sep-2016 23:22:41 America/Los_Angeles] PHP Fatal error:  Call to undefined function clear_cache() in /home/examin8/public_html/CI/wiki/application/controllers/Home.php on line 6
+[18-Sep-2016 23:22:43 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '$sub' (T_VARIABLE) in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 53
+[18-Sep-2016 23:23:02 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '$sub' (T_VARIABLE) in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 53
+[18-Sep-2016 23:23:02 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '$sub' (T_VARIABLE) in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 53
+[18-Sep-2016 23:23:12 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '$sub' (T_VARIABLE) in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 53
+[18-Sep-2016 23:23:37 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '$sub' (T_VARIABLE) in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 53
+[18-Sep-2016 23:23:39 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '$sub' (T_VARIABLE) in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 53
+[18-Sep-2016 23:30:12 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 332
+[18-Sep-2016 23:30:14 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 332
+[18-Sep-2016 23:30:16 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 332
+[18-Sep-2016 23:30:16 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 332
+[18-Sep-2016 23:30:16 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 332
+[18-Sep-2016 23:30:16 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 332
+[18-Sep-2016 23:30:17 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 332
+[18-Sep-2016 23:30:35 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 332
+[19-Sep-2016 02:36:58 America/Los_Angeles] PHP Fatal error:  Call to undefined function limit_text() in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 268
+[19-Sep-2016 03:08:10 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:08:10 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:08:10 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:08:10 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:08:11 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:08:11 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:08:15 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:08:15 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:08:15 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:08:16 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:08:16 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:08:16 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 292
+[19-Sep-2016 03:09:51 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 88
+[19-Sep-2016 03:09:51 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 88
+[19-Sep-2016 03:09:52 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 88
+[19-Sep-2016 03:09:55 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 88
+[19-Sep-2016 04:04:08 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 72
+[19-Sep-2016 04:04:08 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 72
+[19-Sep-2016 04:04:11 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 72
+[19-Sep-2016 04:04:11 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 72
+[19-Sep-2016 04:04:11 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 72
+[19-Sep-2016 04:04:14 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 72
+[19-Sep-2016 04:04:14 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 72
+[19-Sep-2016 04:04:14 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 72
+[19-Sep-2016 04:06:59 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 72
+[19-Sep-2016 04:25:31 America/Los_Angeles] PHP Fatal error:  Call to undefined method Superadmin_model::user_logged_in() in /home/examin8/public_html/CI/wiki/application/controllers/Home.php on line 22
+[19-Sep-2016 04:25:35 America/Los_Angeles] PHP Fatal error:  Call to undefined method Superadmin_model::user_logged_in() in /home/examin8/public_html/CI/wiki/application/controllers/Home.php on line 22
+[22-Sep-2016 03:21:14 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 49
+[22-Sep-2016 03:21:18 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 49
+[22-Sep-2016 03:21:56 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:21:59 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:01 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:02 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:02 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:02 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:02 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:02 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:02 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:02 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:02 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:02 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:03 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:03 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:03 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[22-Sep-2016 03:22:03 America/Los_Angeles] PHP Fatal error:  Can't use function return value in write context in /home/examin8/public_html/CI/wiki/application/views/backend/blog/blog_add.php on line 83
+[23-Oct-2016 22:31:30 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/templates/user_header.php on line 174
+[23-Oct-2016 22:31:32 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/templates/user_header.php on line 174
+[23-Oct-2016 22:31:33 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/templates/user_header.php on line 174
+[23-Oct-2016 22:31:34 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/templates/user_header.php on line 174
+[23-Oct-2016 22:31:34 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/templates/user_header.php on line 174
+[23-Oct-2016 22:31:34 America/Los_Angeles] PHP Parse error:  syntax error, unexpected end of file in /home/examin8/public_html/CI/wiki/application/views/templates/user_header.php on line 174
+[24-Oct-2016 03:02:26 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 305
+[24-Oct-2016 03:02:26 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 305
+[24-Oct-2016 03:02:26 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 305
+[24-Oct-2016 03:02:28 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 305
+[24-Oct-2016 03:02:29 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 305
+[24-Oct-2016 03:02:30 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 305
+[24-Oct-2016 03:02:30 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 305
+[24-Oct-2016 03:24:33 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 314
+[24-Oct-2016 03:24:35 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 314
+[24-Oct-2016 03:24:53 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 314
+[24-Oct-2016 03:36:37 America/Los_Angeles] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 317
+[24-Oct-2016 03:37:08 America/Los_Angeles] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 317
+[24-Oct-2016 03:37:27 America/Los_Angeles] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::form() in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 317
+[24-Oct-2016 03:41:12 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '$' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 129
+[24-Oct-2016 03:41:15 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '$' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 129
+[24-Oct-2016 03:41:15 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '$' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 129
+[24-Oct-2016 03:41:15 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) or '$' in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 129
+[24-Oct-2016 06:23:11 America/Los_Angeles] PHP Fatal error:  Call to undefined function _check_login() in /home/examin8/public_html/CI/wiki/application/controllers/Backend.php on line 48
+[24-Oct-2016 10:41:55 America/Los_Angeles] PHP Fatal error:  Call to undefined function _check_login() in /home/examin8/public_html/CI/wiki/application/controllers/Backend.php on line 48
+[24-Oct-2016 10:43:06 America/Los_Angeles] PHP Fatal error:  Call to undefined function _check_login() in /home/examin8/public_html/CI/wiki/application/controllers/Backend.php on line 48
+[24-Oct-2016 15:09:30 America/Los_Angeles] PHP Fatal error:  Call to undefined function _check_login() in /home/examin8/public_html/CI/wiki/application/controllers/Backend.php on line 48
+[24-Oct-2016 22:33:32 America/Los_Angeles] PHP Fatal error:  Call to undefined function _check_login() in /home/examin8/public_html/CI/wiki/application/controllers/Backend.php on line 48
+[24-Oct-2016 22:36:28 America/Los_Angeles] PHP Fatal error:  Call to undefined function _check_login() in /home/examin8/public_html/CI/wiki/application/controllers/Backend.php on line 48
+[27-Oct-2016 22:34:34 America/Los_Angeles] PHP Fatal error:  Call to a member function row() on a non-object in /home/examin8/public_html/CI/wiki/application/controllers/Backend.php on line 52
+[27-Oct-2016 22:35:12 America/Los_Angeles] PHP Fatal error:  Call to a member function row() on a non-object in /home/examin8/public_html/CI/wiki/application/controllers/Backend.php on line 52
+[07-Nov-2016 23:57:18 America/Los_Angeles] PHP Fatal error:  Call to undefined function limit_text() in /home/examin8/public_html/CI/wiki/application/views/frontend/dashboard.php on line 158
+[01-Dec-2016 06:05:02 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'parent_cats' (T_STRING), expecting ']' in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 277
+[01-Dec-2016 06:05:04 America/Los_Angeles] PHP Parse error:  syntax error, unexpected 'parent_cats' (T_STRING), expecting ']' in /home/examin8/public_html/CI/wiki/application/models/Common_model.php on line 277
